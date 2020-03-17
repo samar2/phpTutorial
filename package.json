@@ -1,0 +1,14 @@
+{
+  "name": "phpTutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "database": "php index.php", 
+    "start": "php -S localhost:8080"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
